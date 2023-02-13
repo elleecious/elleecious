@@ -10,8 +10,9 @@ Successful working in a team environment, as well as independently.</strong>
 <h1><b>My latest projects are:</b></h1>
 <ul> 
   <li>Scholarship Management System</li>
-  <li>Internal Tracking System</li>
+  <li>Internal Tracking System v2.0</li>
   <li>Visitor Arrival Form Web Application(formerly AKQUIRE QR CODE SYSTEM) </li>
   <li>Human Resources Management Information System v2.0</li>
+  <li>Aklan Provincial ICT Office Inventory Management System</li>
 </ul>
 
