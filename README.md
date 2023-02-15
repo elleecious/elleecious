@@ -8,6 +8,12 @@
 To utilize my knowledge and skills in programming and developing for the benefit of the company and myself.
 Successful working in a team environment, as well as independently.</strong></h5>
 <hr>
+<h3><strong>Employment History</strong></h3>
+<ul> 
+  <li>Accentline Inc. - Research and Development Specialist </li>
+  <li>One Virtual Global Business Solutions - Junior Web Developer</li>
+  <li>Trualliant BPO Inc. -  Information Technology Specialist</li>
+</ul>
 <hr>
 <h1><b>My latest projects are:</b></h1>
 <ul> 
