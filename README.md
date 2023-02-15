@@ -13,6 +13,7 @@ Successful working in a team environment, as well as independently.</strong></h5
   <li>Accentline Inc. - Research and Development Specialist </li>
   <li>One Virtual Global Business Solutions - Junior Web Developer</li>
   <li>Trualliant BPO Inc. -  Information Technology Specialist</li>
+  <li>Aklan Provincial Information and Communications Technology Office - Computer Programmer(Contract of Services)</li>
 </ul>
 <hr>
 <h1><b>My latest projects are:</b></h1>
