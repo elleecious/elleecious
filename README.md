@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ellee
 <strong>Bright Moon</strong>🌙🥑🍟
 <br><br>
-<h5 style="fomt-family: 'Roboto', sans-serif;">My name is John Ellee Robado and I'm an Information Technology graduate who is currently working as a Contract Computer Programmer at Provincial Government of Aklan under Aklan Provincial Information and Communications Technology Office.</h5>
+<h5 style="font-family: 'Roboto', sans-serif;">My name is John Ellee Robado and I'm an Information Technology graduate who is currently working as a Contract Computer Programmer at Provincial Government of Aklan under Aklan Provincial Information and Communications Technology Office.</h5>
 
 <hr>
 <strong>To work in an active professional environment in a growing company.
