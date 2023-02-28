@@ -9,17 +9,17 @@ To utilize my knowledge and skills in programming and developing for the benefit
 Successful working in a team environment, as well as independently.</strong></h5>
 <hr>
 <h3><strong>Employment History</strong></h3>
-<ul> 
-  <li>Accentline Inc. - Research and Development Specialist </li>
-  <li>One Virtual Global Business Solutions - Junior Web Developer</li>
-  <li>Trualliant BPO Inc. -  Information Technology Specialist</li>
+<ul>
   <li>Aklan Provincial Information and Communications Technology Office - Computer Programmer(Contract of Services)</li>
+  <li>Trualliant BPO Inc. -  Information Technology Specialist</li>
+  <li>One Virtual Global Business Solutions - Junior Web Developer</li>
+  <li>Accentline Inc. - Research and Development Specialist </li>
 </ul>
 <hr>
 <h1><b>My latest projects are:</b></h1>
 <ul> 
-  <li>Scholarship Management System</li>
-  <li>Internal Tracking System v2.0</li>
+  <li>Online Scholarship Management System</li>
+  <li>Web Based Internal Tracking System v2.0</li>
   <li>Visitor Arrival Form Web Application(formerly AKQUIRE QR CODE SYSTEM) </li>
   <li>Human Resources Management Information System v2.0</li>
   <li>Aklan Provincial ICT Office Inventory Management System</li>
