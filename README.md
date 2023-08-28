@@ -11,7 +11,6 @@ Successful working in a team environment, as well as independently.</strong></h5
 <h3><strong>Employment History</strong></h3>
 <ul>
   <li>Aklan Provincial Information and Communications Technology Office - Computer Programmer(Contract of Services)</li>
-  <li>Trualliant BPO Inc. -  Information Technology Specialist</li>
   <li>One Virtual Global Business Solutions - Junior Web Developer</li>
   <li>Accentline Inc. - Research and Development Specialist </li>
 </ul>
