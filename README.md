@@ -24,7 +24,6 @@ Successful working in a team environment, as well as independently.</strong></h5
 </ul>
 
 ### Programming Languages
-
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
@@ -36,11 +35,35 @@ Successful working in a team environment, as well as independently.</strong></h5
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/svelte%20-%23FF9900.svg?&style=for-the-badge&logo=svelte&logoColor=orange"/>
   <img src="https://img.shields.io/badge/vue.js-%23239120.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+### Design
+<p>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+</p>
+
+### Tools and Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elleecious&color=blue" alt="profile views">
 </p>
+
 
 <p align="left">
       <a href="https://github.com/elleecious?tab=followers">
