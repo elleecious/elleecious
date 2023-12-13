@@ -85,7 +85,7 @@ Successful working in a team environment, as well as independently.</strong></h5
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"></a>
 </p>
 
-#### Social Media
+### Social Media
 
 <p>
   <a href="https://facebook.com/elleecious">
