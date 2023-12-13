@@ -23,5 +23,13 @@ Successful working in a team environment, as well as independently.</strong></h5
   <li>Aklan Provincial ICT Office Inventory Management System</li>
 </ul>
 
-https://github-readme-stats.vercel.app/api?username=elleecious
-https://github-readme-stats.vercel.app/api/top-langs/?username=elleecious&layout=donut
+<p align="center">
+  <img src="https://gpvc.arturio.dev/elleecious" alt="profile views">
+</p>
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=elleecious" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=elleecious"></a>
+</p>
+<p>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elleecious&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elleecious&layout=compact"></a>
+</p>
+
