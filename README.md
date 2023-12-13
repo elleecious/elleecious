@@ -30,6 +30,6 @@ Successful working in a team environment, as well as independently.</strong></h5
   <a href="https://github-readme-stats.vercel.app/api?username=elleecious" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=elleecious"></a>
 </p>
 <p>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elleecious&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elleecious&layout=compact"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"></a>
 </p>
 
