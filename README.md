@@ -22,6 +22,18 @@ Successful working in a team environment, as well as independently.</strong></h5
   <li>Aklan Provincial ICT Office Inventory Management System</li>
 </ul>
 
+<p align="left">
+  <a href="https://github.com/elleecious?tab=followers">
+     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elleecious?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/elleecious?tab=repositories&sort=stargazers">
+     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elleecious?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=elleecious&style=for-the-badge" alt="profile views">
+  </a>
+</p>
+
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -65,20 +77,6 @@ Successful working in a team environment, as well as independently.</strong></h5
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elleecious&color=blue" alt="profile views">
-</p>
-
-
-<p align="left">
-      <a href="https://github.com/elleecious?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elleecious?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-      </a>
-      <a href="https://github.com/elleecious?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elleecious?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-      </a>
-   </p>
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=elleecious" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=elleecious"></a>
