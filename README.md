@@ -26,6 +26,11 @@ Successful working in a team environment, as well as independently.</strong></h5
 <p align="center">
   <img src="https://gpvc.arturio.dev/elleecious" alt="profile views">
 </p>
+
+<p>
+  <a href="https://github.com/elleecious?tab=followers"></a>
+</p>
+
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=elleecious" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=elleecious"></a>
 </p>
