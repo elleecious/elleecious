@@ -35,7 +35,7 @@ Successful working in a team environment, as well as independently.</strong></h5
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/svelte%20-%23FF9900.svg?&style=for-the-badge&logo=svelte&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue-%23239120.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
 </p>
 
 <p align="center">
