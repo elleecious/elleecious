@@ -23,6 +23,14 @@ Successful working in a team environment, as well as independently.</strong></h5
   <li>Aklan Provincial ICT Office Inventory Management System</li>
 </ul>
 
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elleecious&color=blue" alt="profile views">
 </p>
