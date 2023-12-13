@@ -28,11 +28,11 @@ Successful working in a team environment, as well as independently.</strong></h5
 </p>
 
 <p align="left">
-      <a href="https://github.com/rotherfordm?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rotherfordm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <a href="https://github.com/elleecious?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elleecious?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
       </a>
-      <a href="https://github.com/rotherfordm?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rotherfordm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      <a href="https://github.com/elleecious?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elleecious?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
    </p>
 
