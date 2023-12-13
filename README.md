@@ -24,12 +24,17 @@ Successful working in a team environment, as well as independently.</strong></h5
 </ul>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/elleecious" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=elleecious&color=blue" alt="profile views">
 </p>
 
-<p>
-  <a href="https://github.com/elleecious?tab=followers"></a>
-</p>
+<p align="left">
+      <a href="https://github.com/rotherfordm?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rotherfordm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      </a>
+      <a href="https://github.com/rotherfordm?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rotherfordm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+   </p>
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=elleecious" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=elleecious"></a>
