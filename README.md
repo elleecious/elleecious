@@ -23,3 +23,5 @@ Successful working in a team environment, as well as independently.</strong></h5
   <li>Aklan Provincial ICT Office Inventory Management System</li>
 </ul>
 
+https://github-readme-stats.vercel.app/api?username=elleecious
+https://github-readme-stats.vercel.app/api/top-langs/?username=elleecious&layout=donut
