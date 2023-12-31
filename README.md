@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ellee
 <br><br>
-<h5>My name is John Ellee Robado and I'm an Information Technology graduate who is currently working as a Contract Computer Programmer at the Provincial Government of Aklan under the Aklan Provincial Information and Communications Technology Office.</h5>
+<h5>My name is John Ellee Robado and I'm a Web Developer | IT Support</h5>
 <hr>
 <h5><strong>To work in an active professional environment in a growing company.
 To utilize my knowledge and skills in programming and developing for the benefit of the company and myself.
