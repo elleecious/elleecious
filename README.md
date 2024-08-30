@@ -79,6 +79,11 @@ Successful working in a team environment, as well as independently.</strong></h5
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 </p>
 
+### B2B Sales Intelligence
+<p>
+  <img src="https://stewartgauld.com/wp-content/uploads/2023/07/Apollo.io_-1024x538.jpg" height="50" width="50">
+</p>
+
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=elleecious" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=elleecious"></a>
 </p>
