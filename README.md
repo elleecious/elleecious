@@ -81,7 +81,7 @@ Successful working in a team environment, as well as independently.</strong></h5
 
 ### B2B Sales Intelligence
 <p>
-  <img src="https://stewartgauld.com/wp-content/uploads/2023/07/Apollo.io_-1024x538.jpg" height="50" width="50">
+  <img src="https://stewartgauld.com/wp-content/uploads/2023/07/Apollo.io_-1024x538.jpg" height="200" width="200">
 </p>
 
 <p>
