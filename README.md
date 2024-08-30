@@ -83,7 +83,7 @@ Successful working in a team environment, as well as independently.</strong></h5
 <p>
   <img src="https://stewartgauld.com/wp-content/uploads/2023/07/Apollo.io_-1024x538.jpg" height="100" width="200">
   <img src="https://www.highspot.com/wp-content/uploads/2024/04/lusha-case-study-card-template-hero.webp" height="100" width="200">
-  <img src="https://stewartgauld.com/wp-content/uploads/2023/07/Apollo.io_-1024x538.jpg" height="100" width="200">
+  <img src="https://woodpecker.co/blog/app/uploads/2019/07/2019-06-hunter.png" height="100" width="200">
 </p>
 
 <p>
