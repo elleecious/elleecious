@@ -79,7 +79,7 @@ Successful working in a team environment, as well as independently.</strong></h5
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 </p>
 
-### B2B Sales Intelligence
+### B2B Sales Intelligence, Email Verifier, Business Leads
 <p>
   <img src="https://stewartgauld.com/wp-content/uploads/2023/07/Apollo.io_-1024x538.jpg" height="100" width="200">
   <img src="https://www.highspot.com/wp-content/uploads/2024/04/lusha-case-study-card-template-hero.webp" height="100" width="200">
