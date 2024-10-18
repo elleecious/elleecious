@@ -16,7 +16,8 @@ Successful working in a team environment, as well as independently.</strong></h5
 </ul>
 <hr>
 <h1><b>My projects are:</b></h1>
-<ul> 
+<ul>
+  <li>Betson Services Inventory System</li>
   <li>PGO-Scholarship Web-Based Scholarship Management Information System</li>
   <li>PGO Web-Based Internal Tracking System v2.0</li>
   <li>Visitor Arrival Form Web Application(formerly AkQuire Quick Response for Tracing and Monitoring) </li>
