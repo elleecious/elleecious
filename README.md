@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Ellee
 <br><br>
-<h5>My name is John Ellee Robado and I'm a Web Developer | IT Support</h5>
+<h5>My name is John Ellee Robado and I'm a Web Developer</h5>
 <hr>
-<h5><strong>To work in an active professional environment in a growing company.
-To utilize my knowledge and skills in programming and development for the company's and myself's benefit.
-Successful working in a team environment, as well as independently.</strong></h5>
+<h5><strong>To contribute effectively to a dynamic and growth-focused company by leveraging my programming and development skills while enhancing my professional growth. Adept at working independently and as part of a collaborative team to achieve project success.</strong></h5>
 <hr>
 <h3><strong>Employment History</strong></h3>
 <ul>
